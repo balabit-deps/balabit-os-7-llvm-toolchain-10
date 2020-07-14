@@ -1,3 +1,9 @@
+llvm-toolchain-10 (1:10.0.0-4ubuntu1~18.04.2) bionic; urgency=medium
+
+  * No change rebuild for the security pocket
+
+ -- Olivier Tilloy <olivier.tilloy@canonical.com>  Tue, 14 Jul 2020 14:52:11 +0200
+
 llvm-toolchain-10 (1:10.0.0-4ubuntu1~18.04.1) bionic; urgency=medium
 
   * Backport for 18.04.5 HWE stack update. (LP: #1876882)
